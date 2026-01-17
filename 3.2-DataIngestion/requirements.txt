@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai 
+faiss-cpu 
+tiktoken
+pypdf
+bs4
+##bs4-beautiful soup is needed for web based"
+arxiv
